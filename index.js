@@ -13,9 +13,9 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'NAMA BOTMU'; 
-const instagram = 'LINK INSTAGRAMU'; 
-const telegram = 'LINK TELEMU'; 
+const BotName = 'Willy-bot'; 
+const instagram = 'https://instagram.com/Willy_febriano.pasaribu'; 
+const telegram = 'https://t.me/Willy_pasaribu'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
 const youtube = 'LINK YTMU';
 //const grupch1 = 'belum ada grup'; 
@@ -68,7 +68,7 @@ conn.on('user-presence-update', json => console.log(json.id + ' presence is => '
 conn.on('message-status-update', json =>
 {
    const participant = json.participant ? ' (' + json.participant + ')' : '' // participant exists when the message is from a group
-   console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by ig:@reuz.id`)
+   console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by ig:@Willy_febriano.pasaribu`)
 })
 
 conn.on('message-new', async(m) =>
