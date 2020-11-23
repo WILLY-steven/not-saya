@@ -17,7 +17,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install nodejs
 > apt update && apt upgrade
 > git clone https://github.com/WILLY-steven/not-saya
-> cd reuzsc
+> cd not-saya
 > bash install.sh
 > node index.js
 ```
