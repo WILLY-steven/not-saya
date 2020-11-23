@@ -34,15 +34,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/"
+    "url": "git+https://github.com/WILLY-steven/not-saya"
   },
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "Willy Febriano Joito Pasaribu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/issues"
+    "url": "https://github.com/WILLY-steven/not-saya/issues"
   },
-  "homepage": "https://github.com/#readme"
+  "homepage": "https://github.com/WILLY-steven/not-saya#readme"
 }
